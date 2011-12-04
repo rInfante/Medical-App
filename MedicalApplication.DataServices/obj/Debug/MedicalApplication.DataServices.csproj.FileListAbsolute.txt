@@ -1,0 +1,5 @@
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices\bin\Debug\MedicalApplication.DataServices.dll
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices\bin\Debug\MedicalApplication.DataServices.pdb
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices\obj\Debug\ResolveAssemblyReference.cache
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices\obj\Debug\MedicalApplication.DataServices.dll
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices\obj\Debug\MedicalApplication.DataServices.pdb

@@ -1,0 +1,7 @@
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\bin\Release\MedicalApplication.DataServices.RavenDbServices.dll
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\bin\Release\MedicalApplication.DataServices.RavenDbServices.pdb
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\bin\Release\MedicalApplication.DataServices.dll
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\bin\Release\MedicalApplication.DataServices.pdb
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\obj\Release\ResolveAssemblyReference.cache
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\obj\Release\MedicalApplication.DataServices.RavenDbServices.dll
+D:\NETProjects\MedicalApplication\MedicalApp\MedicalApplication.DataServices.RavenDbServices\obj\Release\MedicalApplication.DataServices.RavenDbServices.pdb
